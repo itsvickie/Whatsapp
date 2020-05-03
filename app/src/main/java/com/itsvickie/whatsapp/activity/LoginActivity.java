@@ -1,4 +1,4 @@
-package com.itsvickie.whatsapp;
+package com.itsvickie.whatsapp.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -9,7 +9,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import com.itsvickie.whatsapp.cadastro.CadastroActivity;
+import com.itsvickie.whatsapp.R;
 
 public class LoginActivity extends AppCompatActivity {
     private EditText userEmail;

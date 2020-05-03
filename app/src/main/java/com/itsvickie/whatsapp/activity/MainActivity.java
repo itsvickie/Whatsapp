@@ -1,8 +1,10 @@
-package com.itsvickie.whatsapp;
+package com.itsvickie.whatsapp.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.itsvickie.whatsapp.R;
 
 public class MainActivity extends AppCompatActivity {
 

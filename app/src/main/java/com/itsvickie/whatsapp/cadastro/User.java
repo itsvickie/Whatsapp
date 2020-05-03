@@ -3,16 +3,16 @@ package com.itsvickie.whatsapp.cadastro;
 public class User {
     private String id;
     private String nome;
-    private String telefone;
+    private String email;
     private String senha;
 
     public User() {
     }
 
-    public User(String id, String nome, String telefone, String senha) {
+    public User(String id, String nome, String email, String senha) {
         this.id = id;
         this.nome = nome;
-        this.telefone = telefone;
+        this.email = email;
         this.senha = senha;
     }
 
@@ -32,12 +32,12 @@ public class User {
         this.nome = nome;
     }
 
-    public String getTelefone() {
-        return telefone;
+    public String getEmail() {
+        return email;
     }
 
-    public void setTelefone(String telefone) {
-        this.telefone = telefone;
+    public void setEmail(String email) {
+        this.email = email;
     }
 
     public String getSenha() {
