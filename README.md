@@ -1,5 +1,5 @@
 # Whatsapp
- Projeto clone do famoso aplicativo WhatsApp para fins educacionais. 
+ Projeto clone do famoso aplicativo WhatsApp para fins educacionais no Android Studio com Firebase.
  
  ### Estado Atual
  - Autenticação;
