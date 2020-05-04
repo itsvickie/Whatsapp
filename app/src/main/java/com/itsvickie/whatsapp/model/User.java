@@ -1,4 +1,4 @@
-package com.itsvickie.whatsapp.cadastro;
+package com.itsvickie.whatsapp.model;
 
 public class User {
     private String id;

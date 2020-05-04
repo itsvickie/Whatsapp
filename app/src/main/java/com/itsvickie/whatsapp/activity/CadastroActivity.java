@@ -5,7 +5,6 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.view.View;
-import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
@@ -17,7 +16,7 @@ import com.google.firebase.auth.FirebaseAuthInvalidCredentialsException;
 import com.google.firebase.auth.FirebaseAuthUserCollisionException;
 import com.google.firebase.auth.FirebaseAuthWeakPasswordException;
 import com.itsvickie.whatsapp.R;
-import com.itsvickie.whatsapp.cadastro.User;
+import com.itsvickie.whatsapp.model.User;
 import com.itsvickie.whatsapp.config.ConfigFirebase;
 
 public class CadastroActivity extends AppCompatActivity {

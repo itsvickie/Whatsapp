@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">WhatsApp</string>
+    <string name="menu_search">Pesquisar</string>
+    <string name="menu_settings">Configurações</string>
+    <string name="menu_exit">Logout</string>
 </resources>
